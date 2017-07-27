@@ -1,0 +1,90 @@
+[
+  {
+    "x": 0,
+    "y": {
+     "tuna": 10,
+      "sea turtles": 12,
+      "wales": 102
+    }
+  },
+  {
+    "x": 1,
+    "y": {
+      "tuna": 2,
+      "sea turtles": 22,
+      "wales": 12
+    }
+  },
+  {
+    "x": 2,
+    "y": {
+      "tuna": 43,
+      "sea turtles": 3,
+      "wales": 16
+    }
+  },
+  {
+    "x": 3,
+    "y": {
+      "tuna": 21,
+      "sea turtles": 31,
+      "wales": 32
+    }
+  },
+  {
+    "x": 4,
+    "y": {
+      "tuna": 8,
+      "sea turtles": 48,
+      "wales": 52
+    }
+  },
+  {
+    "x": 5,
+    "y": {
+      "tuna": 25,
+      "sea turtles": 29,
+      "wales": 23
+    }
+  },
+  {
+    "x": 6,
+    "y": {
+      "tuna": 53,
+      "sea turtles": 33,
+      "wales": 32
+    }
+  },
+  {
+    "x": 7,
+    "y": {
+      "tuna": 23,
+      "sea turtles": 53,
+      "wales": 62
+    }
+  },
+  {
+    "x": 8,
+    "y": {
+      "tuna": 34,
+      "sea turtles": 34,
+      "wales": 32
+    }
+  },
+  {
+    "x": 9,
+    "y": {
+      "tuna": 51,
+      "sea turtles": 52,
+      "wales": 22
+    }
+  },
+  {
+    "x": 10,
+    "y": {
+      "tuna": 23,
+      "sea turtles": 51,
+      "wales": 25
+    }
+  }
+]

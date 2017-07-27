@@ -1,0 +1,55 @@
+.multi-line {
+  fill: transparent;
+}
+
+.line-label {
+  fill: $grey-medium;
+  font-family: sans-serif;
+  font-size: 0.6rem;
+}
+
+//fancy
+#wales {
+  stroke-dasharray: 40 10;
+  stroke-width: 10;
+}
+
+#tuna {
+  stroke-dasharray: 0 10;
+  stroke-linecap: round;
+  stroke-width: 5;
+}
+
+#crabs {
+  stroke-linecap: round;
+  stroke-opacity: 0.4;
+  stroke-width: 30;
+}
+
+//fancy 2
+#wales-2,
+#tuna-2,
+#crabs-2 {
+  stroke-linecap: round;
+  stroke-width: 2;
+
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: dash 5s linear forwards infinite;
+}
+
+#wales-2-label,
+#tuna-2-label,
+#crabs-2-label {
+  fill: $grey-dark;
+  font-family: sans-serif;
+  font-size: 0.6rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}

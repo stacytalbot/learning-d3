@@ -1,0 +1,57 @@
+[
+  {
+    "title": "17 million km2",
+    "year" : 2000,
+    "circle":1,
+    "areas" : {
+      "terrestrial" : {
+        "full": 15
+      },
+      "marine": {
+        "full": 2
+      }
+    }
+  },
+  {
+    "title": "27 million km2",
+    "year" : 2010,
+    "circle": 2,
+    "areas" : {
+      "terrestrial" : {
+        "full": 19
+      },
+      "marine": {
+        "full": 8
+      }
+    }
+  },
+  {
+    "title": "40.5 million km2",
+    "year" : 2017,
+    "circle":3,
+    "areas" : {
+      "terrestrial" : {
+        "full": 20
+      },
+      "marine": {
+        "full": 20.5,
+        "empty": 0.5
+      }
+    }
+  },
+  {
+    "title": "Goal of 59 million km2",
+    "year" : 2020,
+    "circle":5,
+    "areas" : {
+      "terrestrial" : {
+        "full": 20,
+        "empty": 3
+      },
+      "marine": {
+        "full": 20,
+        "empty": 16
+      }
+    }
+  }
+]

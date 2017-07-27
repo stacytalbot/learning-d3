@@ -1,0 +1,28 @@
+.label {
+  fill: $grey-medium;
+  font-weight: bold;
+}
+
+.domain {
+  stroke: $grey-dark;
+}
+
+.tick {
+  line {
+    stroke: $grey-dark; 
+  }
+
+  text {
+    fill: $grey-dark;
+  }
+}
+
+.line-1 {
+  stroke: $green;
+  stroke-linejoin: bevel;
+}
+
+.line-label {
+  font-size: 0.4rem;
+  text-transform: capitalize;
+}

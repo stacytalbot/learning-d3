@@ -1,0 +1,66 @@
+[
+  {
+    "name":"color.dark red",
+    "imports":[
+      "color.blue"
+    ]
+  },
+  {
+    "name":"color.yellow",
+    "imports":[
+      "color.white"
+    ]
+  },
+  {
+    "name":"color.blue",
+    "imports":[
+      "color.dark red",
+      "color.yellow"
+    ]
+  },
+  {
+    "name":"color.purple",
+    "imports":[
+      "color.yellow"
+    ]
+  },
+  {
+    "name":"color.brown",
+    "imports":[
+      "color.dark red",
+      "color.black"
+    ]
+  },
+  {
+    "name":"color.black",
+    "imports":[
+      "color.dark red",
+      "color.white"
+    ]
+  },
+  {
+    "name":"color.white",
+    "imports":[
+      "color.dark red",
+      "color.purple"
+    ]
+  },
+  {
+    "name":"color.aqua",
+    "imports":[
+      "color.dark red",
+      "color.yellow",
+      "color.brown"
+    ]
+  },
+  {
+    "name":"color.pink",
+    "imports":[
+      "color.blue",
+      "color.yellow",
+      "color.brown",
+      "color.aqua",
+      "color.black"
+    ]
+  }
+]

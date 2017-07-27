@@ -1,0 +1,21 @@
+.chart rect {
+  fill: steelblue;
+}
+
+.chart text {
+  fill: white;
+  font: 10px sans-serif;
+  text-anchor: end;
+}
+
+.marine-bar-chart-animation {
+  rect {
+    animation: grow 2s linear forwards;
+  }
+
+  @keyframes grow {
+    from {
+      width: 0
+    }
+  }
+}

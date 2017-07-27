@@ -1,0 +1,333 @@
+[
+  {
+    "name": "biodiversity.Amphibian Species of the World",
+    "imports": [
+      "biodiversity.AmphibiaWeb"
+    ]
+  },
+  {
+    "name": "biodiversity.AmphibiaWeb",
+    "imports": [
+      "biodiversity.Amphibian Species of the World"
+    ]
+  },
+  {
+    "name": "biodiversity.AquaMaps",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.Arctos",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.ARPHA",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.Barcode of Life",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.BHL",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.BioCASE",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.Biodiversity Literature Repository",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.BIP",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.BISE",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.CABI ISC",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.CITES Appendices",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.CITES Checklist",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.CITES Trade Database",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.COL",
+    "imports": [
+      "biodiversity.Barcode of Life"
+    ]
+  },
+  {
+    "name": "biodiversity.DAISIE",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.DEIMS",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.DOPA",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.EBSA",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.EMODnet Portal",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.EnvThes",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.EOL",
+    "imports": [
+      "biodiversity.Barcode of Life"
+    ]
+  },
+  {
+    "name": "biodiversity.ERMS",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.EU Biodiversity Strategy",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.Euro+Med PlantBase",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.EUNIS",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.EurOBIS",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.European Biodiversity Portal",
+    "imports": [
+      "biodiversity.AquaMaps"
+    ]
+  },
+  {
+    "name": "biodiversity.Fauna Europaea",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.FishBase",
+    "imports": [
+      "biodiversity.AquaMaps"
+    ]
+  },
+  {
+    "name": "biodiversity.GBIF",
+    "imports": [
+      "biodiversity.AquaMaps",
+      "biodiversity.Arctos",
+      "biodiversity.ARPHA",
+      "biodiversity.Barcode of Life"
+    ]
+  },
+  {
+    "name": "biodiversity.GEOSS Portal",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.GFN",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.GFW",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.GISD",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.GISIN",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.GRIIS",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.ICoMM - Microbis Portal",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.ILTER",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.iNaturalist",
+    "imports": [
+      "biodiversity.AmphibiaWeb"
+    ]
+  },
+  {
+    "name": "biodiversity.Index Fungorum",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.IPBES",
+    "imports": [
+      "biodiversity.Barcode of Life"
+    ]
+  },
+  {
+    "name": "biodiversity.ITIS",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.KBA",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.KNB",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.Lifewatch Geoportal",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.Living Planet Index",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.MOL",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.MPAtlas",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.MycoBank",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.Natura 2000",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.OBIS",
+    "imports": [
+      "biodiversity.AquaMaps"
+    ]
+  },
+  {
+    "name": "biodiversity.OBIS SEAMAP",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.ODV",
+    "imports": [
+      "biodiversity.AquaMaps"
+    ]
+  },
+  {
+    "name": "biodiversity.OHI",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.OTN Data Portal",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.PESI Portal",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.Plazi",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.PlutoF",
+    "imports": [
+      "biodiversity.ARPHA"
+    ]
+  },
+  {
+    "name": "biodiversity.Protected Planet",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.Red List",
+    "imports": [
+      "biodiversity.Amphibian Species of the World",
+      "biodiversity.AmphibiaWeb"
+    ]
+  },
+  {
+    "name": "biodiversity.SAU",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.SDGs",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.SeaLifeBase",
+    "imports": [
+      "biodiversity.AquaMaps"
+    ]
+  },
+  {
+    "name": "biodiversity.Species 2000",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.Species+",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.SWOT",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.Symbiota",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.UN Strategic Plan for Biodiversity",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.UTIS",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.VertNet",
+    "imports": [
+      "biodiversity.AmphibiaWeb",
+      "biodiversity.Arctos"
+    ]
+  },
+  {
+    "name": "biodiversity.WoRMS",
+    "imports": []
+  },
+  {
+    "name": "biodiversity.WPI",
+    "imports": []
+  }
+]
